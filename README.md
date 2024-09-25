@@ -4,6 +4,7 @@
 
 1. Tell me a little bit about yourself and your interest in games! Be sure to include your preferred name and pronouns, and talk a little bit about what games you like to play, why you’re taking the class, any prior experience you have with game development, and what kind of games you hope to build.
 hello test answering i am marie
+lalalalalalalala
 
 2. Which of the following best describes your major:
 
