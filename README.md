@@ -3,10 +3,11 @@
  Setup check-in assignment.
 
 1. Tell me a little bit about yourself and your interest in games! Be sure to include your preferred name and pronouns, and talk a little bit about what games you like to play, why you’re taking the class, any prior experience you have with game development, and what kind of games you hope to build.
+hello test answering i am marie
 
 2. Which of the following best describes your major:
 
-    Game Design & Interactive Media
+    Game Design & Interactive Media <- this one
     Computer Science or related major (CS, CSE, ICS, Data Science, Informatics, etc) (please specify)
     Art-related major (please specify)
     Other (please specify)
@@ -15,10 +16,13 @@ For the next three questions, note what (if any) prior experience you have.
 This class assumes students have no prior knowledge, so don’t worry if you have 0 experience programming or with game development.
 
 3. Programming (any languages/ frameworks)
+comp sci major formerly
 
 4. Game development (any engine)
+unity!
 
 5. Unity
+unreal better!
 
 For the next three questions, a programming or game development concept is presented.
 
@@ -28,11 +32,16 @@ For the next three questions, a programming or game development concept is prese
 These questions are not graded for accuracy! Answer honestly, don’t Google it.
 
 6. Game design document
+hi
 
 7. Scope management
+hello
 
 8. Iteration
+hi
 
 9. Object-Oriented programming
+:p
 
 10. Model-View-Controller architecture
+:3
